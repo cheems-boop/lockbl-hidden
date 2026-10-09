@@ -1,4 +1,4 @@
-# 越狱隐藏环境1.2
+# 越狱隐藏环境新
 >该方案仅在 zygisknext + 月虹模块 + lsp +fusehide隐藏无效的状态下推荐使用
 >目前该方案仅在OPace5u上测试表现为接近完美环境，因为OPace5u使用月虹的老方案表现为，Permission loophole 发现magisk运行痕迹 等多项报错
 >如果以后模块的版本更新了，就不一定能达到这种效果
